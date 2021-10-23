@@ -1,0 +1,78 @@
+@font-face {
+    font-family: pb;
+    src: url(../assets/pb.ttf);
+  }
+
+.navbar-brand {
+    font-family: pb !important;
+}
+.bg-valotools-main {
+    border: 2px solid #88000008;
+    background-color: rgb(255 255 255 / 5%);
+}
+
+.btn-valotools-main {
+    background-color: #d50000;
+    color: white;
+}
+
+.btn-valotools-main-outline {
+    color: #d50000;
+    background-color: #12121200;
+    border: 1px solid #d50000;
+}
+
+.btn-valotools-main:hover {
+    border: 1px solid #910000;
+    background-color: #910000;
+    color: rgb(196, 196, 196);
+}
+
+.btn-valotools-main-outline:hover {
+    background-color: #d50000;
+    border: 1px solid #910000;
+    color: white;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: pb !important;
+}
+
+.card {
+    border: 0px solid rgba(0,0,0,.125) !important;
+    background-color: rgb(255 255 255 / 6%) !important;
+    color: white !important;
+}
+
+.display-7 {
+    font-size: 2.3rem;
+}
+
+.lead {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-valotools-bg {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#d50000+1,9b0000+100 */
+    background: #d50000; /* Old browsers */
+    background: -moz-linear-gradient(bottom,  #d50000 1%, #9b0000 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom,  #d50000 1%,#9b0000 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top,  #d50000 1%,#9b0000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d50000', endColorstr='#9b0000',GradientType=0 ); /* IE6-9 */
+    box-shadow: 0px 1px 12px 0px black;
+}
+
+.btn-valotools{
+    color: white;
+    
+}
+
+.btn-valotools:hover{
+    color: white;
+    background-color: #880000;
+}
+
+.valotools-bg-dark {
+    background-color: #121212;
+}
