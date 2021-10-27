@@ -34,6 +34,11 @@
     color: white;
 }
 
+#showcase {
+    background-color: rgb(255 255 255 / 6%);
+    border-radius: 5px;
+}
+
 h1 {
     color: rgb(255, 255, 255);
     font-family: pb !important;
